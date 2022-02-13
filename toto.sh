@@ -1,3 +1,4 @@
 #!/bin/bash
 
 echo "Bonjour à tous  !!!"
+frreg
